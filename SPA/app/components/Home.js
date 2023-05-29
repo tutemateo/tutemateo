@@ -12,7 +12,7 @@ export function Home() {
         <div class="social-links">
           <a class="social-link" href="https://www.linkedin.com/in/francisco-mateo" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           <a class="social-link" href="https://www.github.com/tutemateo" target="_blank" rel="noopener noreferrer">GitHub</a>
-          <a class="social-link" href="https://www.facebook.com/fj.mateo" target="_blank" rel="noopener noreferrer">Facebook</a>
+          <a class="social-link" href="https://www.facebook.com/fj.mateo/" target="_blank" rel="noopener noreferrer">Facebook</a>
           <a class="social-link" href="https://www.instagram.com/tutemateo" target="_blank" rel="noopener noreferrer">Instagram</a>
 
           <!-- Agrega más enlaces a tus redes sociales -->
