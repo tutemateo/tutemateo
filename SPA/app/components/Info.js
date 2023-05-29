@@ -21,64 +21,9 @@ export function Info() {
 
     </section>
 
-    <section>
-      <h2>Experiencia Laboral</h2>
-      <ul>
-        <li>
-          <h3>Front-End developer</h3>
-          <p>2023</p>
-          <p>Cargo: Freelancer</p>
-          <p>Descripción: Front-End developer 
-          Node.js / JavaScript - React.js.</p>
-        </li>
-          <h3>Quality Control (QA) </h3>
-          <p>COSMOMACK SRL / 2022 - 2023 </p>
-          <p>Cargo: Chemistry Technician</p>
-          <p>Descripción: 
-          Italia - Rímini, Emilia-Romagna (RN)
-          <br> 
-          Working as a quality control manager, following the manufacturing line, packaging and all the in-side aspects to guarantee the quality, efficiency and results of the final product.
-          </p>
-        </li>
-        </li>
-          <h3>Co-Founder Chemycal Business</h3>
-          <p>VaperWave / 2017 - 2020 </p>
-          <p>Cargo: Chemistry Technician</p>
-          <p>Descripción: 
-          Production & production management.
-          Advertising/Sales - Google Ads, Facebook Ads, Instagram Ads.
-          Community Manager.
-          </p>
-        </li>
+   
 
-         <li>
-          <h3>E-Commerce developer</h3>
-          <p>MyWatch / 2017 - 2019 </p>
-          <p>Cargo: Front-End / Full Stack Dev</p>
-          <p>Descripción: Design and front-end work of sales websites using HTML, CSS, JavaScript and WorldPress.
-          Sales management and advertising with Google Ads & Facebook Ads.
-          </p>
-        </li>
-        <!-- Repite el código anterior para cada experiencia laboral -->
-      </ul>
-    </section>
-
-    <section>
-      <h2>Educación</h2>
-      <ul>
-        <li>
-          <h3>Técnico / Técnico Químico</h3>
-          <p>Institución: EIS - FIQ - UNL</p>
-          <p>Fecha de Graduación: 2015</p>
-        </li>
-        <li>
-          <h3>FullStack Dev</h3>
-          <p>Institución: JohnMircha Courses</p>
-          <p>Fecha de Graduación: 2022</p>
-        </li>
-        <!-- Repite el código anterior para cada nivel educativo -->
-      </ul>
-    </section>
+   
 
     <section>
       <h2>CERTIFICATIONS</h2>
@@ -116,11 +61,6 @@ export function Info() {
       </ul>
     </section>
 
-    <section>
-    <h2>OTHER EXPERIENCES</h2>
-    <p>I’ve been working + 5 years in shops as a seller & work manager.</p>
-
-    </section>
   `;
   return $info;
 }
